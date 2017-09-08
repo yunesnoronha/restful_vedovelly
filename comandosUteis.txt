@@ -1,0 +1,18 @@
+npm install npm
+
+//inicia um arquivo pack.json
+npm init
+
+
+//servidor node express
+npm install express --save
+
+//npm install body-parser --save
+
+//npm install validator --save
+
+//npm install mongoose --save
+
+// reinicia o servidor sempre que salvar
+npm install nodemon 
+
